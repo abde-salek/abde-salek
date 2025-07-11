@@ -1,4 +1,4 @@
-# 💫 About Me:
+# PROFILE:
 🔍 Passionate about learning and tackling challenges<br>💻 Experience across a range of technologies and projects<br>🛠️ Enjoy turning ideas into reality through code<br>🌍 Believer in the power of community and open source<br>🚀 Let’s make cool things happen!
 
 
