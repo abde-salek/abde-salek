@@ -1,5 +1,7 @@
 # PROFILE:
-🔍 Passionate about learning and tackling challenges<br>💻 Experience across a range of technologies and projects<br>🛠️ Enjoy turning ideas into reality through code<br>🌍 Believer in the power of community and open source<br>🚀 Let’s make cool things happen!
+### Mobile App Developer (Flutter)  | Software Developer  
+Building real-world applications with clean architecture  
+Problem-solving • Scalability • UX-aware
 
 
 ## 🌐 Socials:
