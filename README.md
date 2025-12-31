@@ -1,6 +1,6 @@
 # PROFILE:
 ### Mobile App Developer (Flutter)  | Software Developer  
-Building real-world applications with clean architecture  
+Focused on building scalable, well-structured systems 
 Problem-solving • Scalability • UX-aware
 
 
